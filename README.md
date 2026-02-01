@@ -1,65 +1,45 @@
-# Hi, I'm Jaymin Chang 👋
+# Jaymin Chang
 
-**MSCS Student @ Northeastern University Vancouver** | Building full-stack applications with AI integration
+**MSCS @ Northeastern Vancouver**
 
-I'm transitioning from Motor Learning research at Columbia to software engineering, combining analytical thinking with modern development practices. Currently seeking **Fall 2026 or Spring 2027 co-op opportunities** where I can contribute to real-world projects and grow as an engineer.
+Software engineer with a research background in motor learning. Building tools that help people organize and retrieve what they know.
 
----
-
-## 🛠️ Tech Stack
-
-**Frontend:** React, Next.js, TypeScript, TailwindCSS  
-**Backend:** Python (FastAPI), Node.js, Express  
-**Database:** PostgreSQL, Supabase, MongoDB  
-**AI/ML:** OpenAI API, LangChain, Function Calling  
-**Tools:** Git, Docker, JWT Auth, REST APIs
+Looking for engineering roles starting Early 2027.
 
 ---
 
-## 🚀 Featured Projects
+## Tech
 
-### [APOLLO](https://github.com/jmin1219/atlas) - AI Productivity System
-Multi-agent AI assistant with streaming chat interface and natural language task management. Built with FastAPI, Next.js 15, and OpenAI GPT-4.
-
-**Key Features:**
-- Strategic goal-aware AI agent with multi-horizon planning
-- Secure function calling for task CRUD via natural language
-- Server-sent events (SSE) for ChatGPT-like streaming
-- Full authentication system with JWT + bcrypt
-
-**Tech:** Python, FastAPI, TypeScript, React, Next.js, Supabase, OpenAI API
+**Languages:** Python, TypeScript, JavaScript  
+**Backend:** FastAPI, Node.js, Express  
+**Frontend:** React, Next.js, TailwindCSS  
+**Databases:** PostgreSQL, Kuzu, MongoDB, Supabase  
+**Other:** OpenAI API, Docker, Git
 
 ---
 
-### [Trivial Pursuit Online](https://github.com/jmin1219/trivial-pursuit-online) • [Live Demo](https://trivial-pursuit-online-59xk.onrender.com/)
-Real-time multiplayer trivia game with interactive board gameplay and Socket.io integration.
+## Projects
 
-**Tech:** MongoDB, Express, React, Node.js (MERN), Socket.io, TailwindCSS
+### [Voku](https://github.com/jmin1219/voku)
+Personal knowledge graph with temporal tracking. Models how understanding changes over time, not just what you wrote down. Kuzu graph database, FastAPI, React. In development.
 
----
+### [APOLLO](https://github.com/jmin1219/atlas)
+AI assistant for task management. Natural language input, streaming responses, auth system. FastAPI, Next.js, GPT-4.
 
-## 📚 Currently Working On
-
-- Completing APOLLO deployment for live demo
-- Advancing through NeetCode 75 algorithm problems (24/75 complete)
-- Building portfolio for Fall 2026 co-op applications
+### [Trivial Pursuit Online](https://github.com/jmin1219/trivial-pursuit-online) — [Live Demo](https://trivial-pursuit-online-59xk.onrender.com/)
+Multiplayer trivia game with real-time board state. Socket.io, MERN stack.
 
 ---
 
-## 🎯 Background
+## Background
 
-**Education:** MS Computer Science @ Northeastern Vancouver (Align Program) | GPA: 3.9+  
-**Previous:** Research Assistant, Motor Learning Lab @ Columbia University  
-**Location:** Vancouver, BC | Open to relocation  
-**Status:** International student, will require visa sponsorship for full-time roles
-
----
-
-## 📫 Let's Connect
-
-**Email:** jmin1219@gmail.com
-**LinkedIn:** [linkedin.com/in/jaymin-chang-professional](https://www.linkedin.com/in/jaymin-chang-professional/)  
+**Education:** MS Computer Science, Northeastern University Vancouver  
+**Previous:** Research in motor learning and human performance  
+**Location:** Vancouver, BC
 
 ---
 
-*Actively seeking Fall 2026 or Spring 2027 co-op opportunities in software engineering.*
+## Contact
+
+jmin1219@gmail.com  
+[LinkedIn](https://www.linkedin.com/in/jaymin-chang-professional/) · [Twitter](https://twitter.com/ChangJaymin)
