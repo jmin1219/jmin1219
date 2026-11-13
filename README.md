@@ -1,45 +1,21 @@
 # Jaymin Chang
 
-**MSCS @ Northeastern Vancouver**
-
-Software engineer with a research background in motor learning. Building tools that help people organize and build on what they know.
-
-Looking for engineering roles starting Early 2027.
-
----
-
-## Tech
-
-**Languages:** Python, TypeScript, JavaScript  
-**Backend:** FastAPI, Node.js, Express  
-**Frontend:** React, Next.js, TailwindCSS  
-**Databases:** PostgreSQL, Kuzu, MongoDB, Supabase  
-**Other:** OpenAI API, Docker, Git
-
----
+MS Computer Science student at Northeastern University, Vancouver (4.0 GPA, graduating May 2028). Before computer science I did motor-learning research at Columbia. Looking for a co-op starting January or May 2027.
 
 ## Projects
 
-### [Voku](https://github.com/jmin1219/voku)
-Personal knowledge graph with temporal tracking. Models how understanding changes over time, not just what you wrote down. Kuzu graph database, FastAPI, React. In development.
+- **[Alfred](https://github.com/jmin1219/alfred)**: open-source memory server for AI assistants. An MCP server with 19 tools that lets any AI assistant read and write a person's notes and state in SQLite and a markdown vault; every change the AI writes waits for the person to approve it. 782 tests, CI on every push. Python, FastMCP, SQLite, Next.js.
+- **[Trivial Pursuit Online](https://github.com/jmin1219/trivial-pursuit-online)** ([live demo](https://trivial-pursuit-online-59xk.onrender.com/)): real-time multiplayer trivia game with server-authoritative state. React, Node, Socket.io, MongoDB.
+- **[Voku](https://github.com/jmin1219/voku)**: AI chat with cited long-term memory. Saves every message as a timestamped, embedded record and cites the records behind each answer. FastAPI, React, TypeScript, SQLite. 271 tests.
 
-### [APOLLO](https://github.com/jmin1219/atlas)
-AI assistant for task management. Natural language input, streaming responses, auth system. FastAPI, Next.js, GPT-4.
+## Tech
 
-### [Trivial Pursuit Online](https://github.com/jmin1219/trivial-pursuit-online) — [Live Demo](https://trivial-pursuit-online-59xk.onrender.com/)
-Multiplayer trivia game with real-time board state and messaging. Socket.io, MERN stack.
-
----
-
-## Background
-
-**Education:** MS Computer Science, Northeastern University Vancouver  
-**Previous:** Research in motor learning and human performance  
-**Location:** Vancouver, BC
-
----
+- Languages: Python, Java, TypeScript / JavaScript, SQL, C, Go (coursework)
+- Backend: FastAPI, Node.js, Express
+- Frontend: React, Next.js, Tailwind CSS
+- Data and infrastructure: SQLite, MongoDB, Docker, AWS EC2 with Terraform (coursework), GitHub Actions
+- AI: Anthropic and Groq APIs, MCP, RAG and embeddings
 
 ## Contact
 
-jmin1219@gmail.com  
-[LinkedIn](https://www.linkedin.com/in/jaymin-chang/) · [Twitter](https://twitter.com/ChangJaymin)
+jmin1219@gmail.com · [LinkedIn](https://www.linkedin.com/in/jaymin-chang/)
