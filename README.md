@@ -1,6 +1,6 @@
 # Jaymin Chang
 
-MS Computer Science student at Northeastern University, Vancouver (4.0 GPA, graduating May 2028). Before computer science I did motor-learning research at Columbia. Looking for a co-op starting January or May 2027.
+MS Computer Science student at Northeastern University, Vancouver (4.0 GPA, graduating May 2028). I build and test tools for AI agents. Before software I did research at Columbia on how the brain predicts and plans movement. Looking for a software engineering co-op for Summer 2027.
 
 ## Projects
 
